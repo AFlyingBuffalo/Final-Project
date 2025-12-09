@@ -19,7 +19,7 @@ I learned about the ins and outs of pandas.
 awhile, wasn't my first project idea
 
 ### Instructions
-To use my project, you first need to have an input csv file. there is one in this folder which can be used as a default.
+To use my project, you first need to have an input csv file. there is one in this folder which can be used as a default. Pretty is an optional flag that can be used to create a pretty text file with straight lines and headers
 Please use the following command in a powershell terminal
 python .\project.py {INPUT FILE .csv} {OUTPUT FILE .csv} --pretty {OUTPUT .txt}
 ### EXAMPLE
